@@ -1,0 +1,4 @@
+#配置redis地址
+spring:
+   redis:
+     host: 47.112.22.169
